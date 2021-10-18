@@ -37,3 +37,8 @@
 
 ## Snapshot
 ![alt text](https://github.com/oliabhi/Movie-Recommender/blob/main/Images/heroku.png)
+
+
+## Project - URL
+- [MOVIE RECOMMENDER](https://group11edbda.herokuapp.com/)
+- Deployed over Heroku cloud
