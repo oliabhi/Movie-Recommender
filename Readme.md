@@ -26,9 +26,14 @@
 - [Cosine Similarity](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html)
 
 ## Methodology
+
 # movie_recommender_V1_preProcessing
 - Pre Processing and train data preparation
 - exporting train.csv
+
 # recommender_tester
 - Run test cases
 - Do recommendations
+
+## Snapshot
+![alt text](https://github.com/oliabhi/Movie-Recommender/blob/main/Images/heroku.png)
