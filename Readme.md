@@ -5,6 +5,7 @@
 ## Overview
 
 - Developed a content based movie recommender that uses Kaggle's THE MOVIES Dataset
+- [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
 - Deployed over Heroku Cloud
 - Uses TMDB-API that fetches the poster path and overview of the movie displayed in the frontend
 - Input - Movie Name
